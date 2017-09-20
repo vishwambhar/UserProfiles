@@ -1,0 +1,17 @@
+[
+  {
+    "guid":1,
+    "username":"Barney Poland",
+    "email":"barney@contoso.com"
+  },
+  {
+    "guid":2,
+    "username":"Lacy Barrera",
+    "email":"lacy@contoso.com"
+  },
+  {
+    "guid":3,
+    "username":"Lora Riggs",
+    "email":"lora@contoso.com"
+  }
+]
