@@ -1,3 +1,3 @@
 # userprofiles
 
-Swagger api [location](./config/swagger.json)
+UserProfiles APIs
